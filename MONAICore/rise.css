@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800;900&family=Space+Mono:wght@400;700&display=swap");
+
+body {
+    font-family: "Mulish", sans-serif;
+    color: rgb(55 65 81);
+}
+
+.reveal .backgrounds {
+    background-color: white;
+}
+
+#rise-header {
+    right: 0px;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #02A3A3 !important;
+}
+
+.alert.alert-info {
+    background: #02A3A3 !important;
+    color: white !important;
+}
