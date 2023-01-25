@@ -28,7 +28,7 @@ in a cell will verify this has worked and show you what kind of hardware you hav
 ### MONAI Core:
 * <a target="_blank" href="https://colab.research.google.com/github/Project-MONAI/monai-bootcamp/blob/main/MONAICore/Intro%20to%20MONAI.ipynb">Intro to MONAI Core</a>
 * <a target="_blank" href="https://colab.research.google.com/github/Project-MONAI/monai-bootcamp/blob/main/MONAICore/MONAI%20End-to-End%20Workflow.ipynb">MONAI End-to-End Workflow</a>
-* <a target="_blank" href="https://colab.research.google.com/github/Project-MONAI/monai-bootcamp/blob/main/MONAICore/MONAI%20Bundle%2C%20MONAI%20Model%20Zoo%2C%20and%20Image%20Visualization.ipynb">MONAI Bundles and Model Zoo</a>
+* <a target="_blank" href="https://colab.research.google.com/github/Project-MONAI/monai-bootcamp/blob/main/MONAICore/MONAI%20Bundle%20and%20MONAI%20Model%20Zoo.ipynb">MONAI Bundles and Model Zoo</a>
 
 ### MONAI Deploy:
 * <a target="_blank" href="https://colab.research.google.com/github/Project-MONAI/monai-bootcamp/blob/main/MONAIDeploy/01_simple_app.ipynb">1. Creating a Simple Image Processing App with MONAI Deploy App SDK</a>
