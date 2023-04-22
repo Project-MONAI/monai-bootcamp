@@ -25,17 +25,21 @@ Most of the notebooks in this repository would benefit considerably from having 
 [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github.com/Project-MONAI/monai-bootcamp/blob/main/MONAICore/MONAI%20Bundle%20and%20MONAI%20Model%20Zoo.ipynb) (Requires Referral Code)
 
 ### MONAI Deploy:
-**Creating a Simple Image Processing App with MONAI Deploy App SDK**
+**(Optional)Creating a Simple Image Processing App with MONAI Deploy App SDK**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Project-MONAI/monai-bootcamp/blob/main/MONAIDeploy/01_simple_app.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Project-MONAI/monai-bootcamp/blob/main/MONAIDeploy/00_basic_operators.ipynb)
 
-**Deploying a MedNIST Classifier App with MONAI Deploy App SDK**
+**(Optional) Deploying a MedNIST Classifier App with MONAI Deploy App SDK**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Project-MONAI/monai-bootcamp/blob/main/MONAIDeploy/02_mednist_app-prebuilt.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Project-MONAI/monai-bootcamp/blob/main/MONAIDeploy/00_mednist_app.ipynb)
 
 **Creating a Segmentation App with MONAI Deploy App SDK**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Project-MONAI/monai-bootcamp/blob/main/MONAIDeploy/03_segmentation_app.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Project-MONAI/monai-bootcamp/blob/main/MONAIDeploy/01_segmentation_app.ipynb)
+
+**Bring Your Own Model with MONAI Deploy App SDK**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Project-MONAI/monai-bootcamp/blob/main/MONAIDeploy/02_byom_app.ipynb)
 
 While using Google Colab, you cannot fully utilize Docker for packaging your MONAI Deploy Application Package (MAP). For this reason, we've commented out the docker-specific instructions within the notebooks so that there are no issues. These can be uncommented and run to demonstrate the packaging process if running locally.
 
