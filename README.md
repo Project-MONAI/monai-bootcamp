@@ -29,6 +29,12 @@ Feel free to explore the notebooks and video resources to enhance your understan
 
 [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github.com/Project-MONAI/monai-bootcamp/blob/main/MONAICore/MONAI%20Bundle%20and%20MONAI%20Model%20Zoo.ipynb) (Requires Referral Code)
 
+**Auto3DSeg Hello World**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Project-MONAI/monai-bootcamp/blob/main/MONAICore/Auto3DSeg%20Hello%20World.ipynb)
+
+[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github.com/Project-MONAI/monai-bootcamp/blob/main/MONAICore/Auto3DSeg%20Hello%20World.ipynb) (Requires Referral Code)
+
 ### MONAI Deploy:
 **(Optional)Creating a Simple Image Processing App with MONAI Deploy App SDK**
 
