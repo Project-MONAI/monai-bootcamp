@@ -4,6 +4,7 @@ Below, you will find a list with all publicly available MONAI on AWS resources.
 
 ## MONAI on AWS blog posts
 
+* Build a medical imaging AI inference pipeline with MONAI Deploy on AWS - Nov '23: https://aws.amazon.com/blogs/machine-learning/build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws/
 * AI-Assisted Annotation of Medical Images using MONAI Label on AWS - May '23: https://aws.amazon.com/blogs/industries/ai-assisted-annotation-of-medical-images-using-monai-label-on-aws/
 * Share medical image research on Amazon SageMaker Studio Lab for free – Jan ’23: https://aws.amazon.com/blogs/machine-learning/share-medical-image-research-on-amazon-sagemaker-studio-lab-for-free/
 * Privacy-Preserving Federated Learning on AWS with NVIDIA FLARE & MONAI - Nov '22: https://aws.amazon.com/blogs/apn/privacy-preserving-federated-learning-on-aws-with-nvidia-flare/
@@ -16,6 +17,7 @@ Below, you will find a list with all publicly available MONAI on AWS resources.
 
 * Self-service or instructor-led workshop focused on running 1/ MONAI Label and 3D Slicer on Amazon AppStream and 2/ MONAI Core on SageMaker: https://catalog.us-east-1.prod.workshops.aws/workshops/ff6964ec-b880-45d4-bc1e-468b0c7fa854/en-US/
 * NVIDIA FLARE on AWS for Federated Learning: https://catalog.workshops.aws/nvflareonaws/en-US
+* MONAI on AWS Workshop (incl. AWS HealthImaging): https://github.com/aws-samples/monai-on-aws-workshop/tree/main
 
 ## MONAI on AWS GitHub tutortials
 
