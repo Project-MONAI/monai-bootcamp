@@ -71,9 +71,9 @@ Follow the installation instructions and watch the video to learn more about MON
 
 To set up your local environment, please follow the installation instructions for MONAI Core, MONAI Label, and MONAI Deploy. Below are the links to the installation documentation for each project:
 
-* [MONAI Core Installation](https://docs.monai.io/en/stable/installation.html)
-* [MONAI Label Installation](https://docs.monai.io/projects/label/en/latest/installation.html)
-* [MONAI Deploy Installation](https://docs.monai.io/projects/monai-deploy-app-sdk/en/latest/getting_started/installing_app_sdk.html)
+* [MONAI Core Installation]([https://docs.monai.io/en/stable/installation.html](https://monai.readthedocs.io/en/stable/))
+* [MONAI Label Installation]([https://docs.monai.io/projects/label/en/latest/installation.html](https://monai.readthedocs.io/projects/label/en/latest/))
+* [MONAI Deploy Installation]([https://docs.monai.io/projects/monai-deploy-app-sdk/en/latest/getting_started/installing_app_sdk.html](https://monai.readthedocs.io/projects/monai-deploy-app-sdk/en/latest/))
 
 If your local machine supports GPU, refer to the official [PyTorch documentation](https://pytorch.org/get-started/locally/) for instructions on installing PyTorch with GPU support based on your system configuration.
 
